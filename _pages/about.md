@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a scientist interested in answering questions and discovering emergent phenomena at the intersection of physics, chemistry and molecular biology. I build tools that use physics and AI to understand the molecular world. These tools are advancing the frontiers of drug discovery and biomedicine.
+Hello! I am a scientist interested in answering questions and discovering emergent phenomena at the intersection of physics, chemistry and molecular biology. I build tools that use physics and AI to understand and simulate the molecular world. These tools are advancing the frontiers of drug discovery and biomedicine.
 
-I started my career as a high school physics and chemistry teacher in Baltimore, Maryland with [Teach For America](https://www.teachforamerica.org/). This experience shaped the way I see the world and science in a profound way. I got a Ph.D. in Biophysics from Washington University in St. Louis, and then became a [Truman Fellow](https://www.sandia.gov/labnews/2019/09/26/truman-fellows/) at Sandia National Labs. After my fellowship, I worked for two years as a scientist and group leader at Prescient Design, the AI research division of Genentech. I am now one of the founding members of Achira, a startup building foundation models for chemistry to transform drug discovery.
+I started my career as a high school physics and chemistry teacher in Baltimore, Maryland with [Teach For America](https://www.teachforamerica.org/). This experience shaped the way I see the world and science in a profound way. I got a Ph.D. in biophysics from Washington University in St. Louis, and then became a [Truman Fellow](https://www.sandia.gov/labnews/2019/09/26/truman-fellows/) at Sandia National Labs. After my fellowship, I worked for two years as a scientist and group leader at Prescient Design, the AI research division of Genentech. I am now one of the founding members of Achira, a startup building foundation models for chemistry to transform drug discovery.
 
 
 
